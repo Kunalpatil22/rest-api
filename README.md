@@ -131,10 +131,6 @@ Response Example:
 
 Description: Insert a new user
 
-Parameters:
-
-- `id` - `id` of the specific user
-
 Content-Type: application/json
 
 Request body `json`:
